@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/inventory-tracker/static/css/main.c6883833.css",
+    "main.js": "/inventory-tracker/static/js/main.00398db9.js",
+    "static/js/453.70a39bf5.chunk.js": "/inventory-tracker/static/js/453.70a39bf5.chunk.js",
+    "index.html": "/inventory-tracker/index.html",
+    "main.c6883833.css.map": "/inventory-tracker/static/css/main.c6883833.css.map",
+    "main.00398db9.js.map": "/inventory-tracker/static/js/main.00398db9.js.map",
+    "453.70a39bf5.chunk.js.map": "/inventory-tracker/static/js/453.70a39bf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6883833.css",
+    "static/js/main.00398db9.js"
+  ]
+}
